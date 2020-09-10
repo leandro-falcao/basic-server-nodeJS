@@ -7,5 +7,6 @@
 ## ##### e seu server em node estara rodando na por 3300;
 ## ###### e se quiser mudar a porta pode só mudar o numero da porta 
 
-I just love return **bold text**.
-mudando o readme.md e - etc
+- I just love return **bold text**.
+- mudando o readme.md e - etc
+- terceiro item
