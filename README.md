@@ -1,6 +1,6 @@
 # basic-server-nodeJS
 
-# # quando baixar descompacte ### #
+# # quando baixar descompacte
 # ## depois abrar dentro da pasta o comando: npm install
 # ### o comando: npm install, vai baixar tudo que precisa 
 # #### apos isso abra o terminal na pasta e digite: node server.js
