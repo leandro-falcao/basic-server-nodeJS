@@ -11,7 +11,7 @@
 - I just love return **bold text**.
 - mudando o readme.md e - etc
 - terceiro item
-    -terceiro item filho um
-    -terceiro item filho dois
-    -terceiro item filho tres
+    - terceiro item filho um
+    - terceiro item filho dois
+    - terceiro item filho tres
 - quarto item
